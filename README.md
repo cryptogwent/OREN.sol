@@ -1,1 +1,3 @@
+![WW](https://user-images.githubusercontent.com/87565192/126383984-d36da4af-8a78-4557-bf09-1b5e4311c33f.png)
+
 **eBash** contract **eBash Protocol** is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from Safemoon with some added benefits. First, **burned the 90%** of the tokens. Second, utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 4 years. Simple tokenomics and elegant design and production of token information has catered to the overall success of the project. 100% community owned and driven - no rug is possible. **#eBash join us on our journey safely to the moon!**
