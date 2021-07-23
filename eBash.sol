@@ -1,5 +1,3 @@
-                                                                                    
-*/  
 /* eBash
 *
 * Taxes structure:
