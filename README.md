@@ -1,3 +1,5 @@
-![WW](https://user-images.githubusercontent.com/87565192/126383984-d36da4af-8a78-4557-bf09-1b5e4311c33f.png)
+##What is Gwent?
+GWENT is a card game of choices and consequences, where skill, not luck, is your greatest weapon. Pick a faction, build an army, and wage war against other players across multiple game modes. With hundreds of cards to collect — charismatic heroes, mighty spells and special abilities — new strategies are always a thought away.
+Play your favourite card game and earn! Each card from your deck is an NFT token (BEP-721) that can be bought or sold on our Marketplace or any other (Opensea, Rarible). Win rare cards, sell them for a higher price, or use them in the game to increase your chances of winning — it’s up to you.
 
-**eBash** contract **eBash Protocol** is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from Safemoon with some added benefits. First, **burned the 90%** of the tokens. Second, utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 4 years. Simple tokenomics and elegant design and production of token information has catered to the overall success of the project. 100% community owned and driven - no rug is possible. **#eBash join us on our journey safely to the moon!**
+The internal currency of the GWENT is $OREN. For Orens, you can buy new cards for your deck on the Marketplace. Also, you can always exchange Orens for ETH to get your profit.
